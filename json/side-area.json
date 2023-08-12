@@ -1,0 +1,1041 @@
+[
+  {
+    "type": "Employment",
+    "title": "雇用形態で探す",
+    "categoryTitleLink": false,
+    "list": [
+      { "categoryTitle": "中途採用（正社員）" },
+      { "categoryTitle": "新卒採用（正社員）" },
+      { "categoryTitle": "中途採用（契約）" },
+      { "categoryTitle": "新卒採用（契約）" },
+      { "categoryTitle": "アルバイト・パート" },
+      { "categoryTitle": "業務委託" },
+      { "categoryTitle": "インターン" }
+    ]
+  },
+  {
+    "type": "Occupation",
+    "title": "職種で探す",
+    "categoryTitleLink": false,
+    "list": [
+      {
+        "categoryTitle": "営業系",
+        "subTitle": "営業、MR、人材コーディネーター 他",
+        "subCategoryList": [
+          {
+            "subCategoryTitle": "法人営業"
+          },
+          {
+            "subCategoryTitle": "個人営業"
+          },
+          {
+            "subCategoryTitle": "ルートセールス・渉外・外商"
+          },
+          {
+            "subCategoryTitle": "代理店営業・アライアンス"
+          },
+          {
+            "subCategoryTitle": "内勤営業"
+          },
+          {
+            "subCategoryTitle": "カウンターセールス"
+          },
+          {
+            "subCategoryTitle": "技術・システム営業"
+          },
+          {
+            "subCategoryTitle": "MR"
+          },
+          {
+            "subCategoryTitle": "医療機器営業、その他"
+          },
+          {
+            "subCategoryTitle": "海外営業"
+          },
+          {
+            "subCategoryTitle": "営業マネージャー・営業管理"
+          },
+          {
+            "subCategoryTitle": "コールセンター管理・運営（SV）"
+          },
+          {
+            "subCategoryTitle": "テレマーケティング、オペレーター"
+          },
+          {
+            "subCategoryTitle": "人材コーディネーター"
+          },
+          {
+            "subCategoryTitle": "キャリアカウンセラー"
+          },
+          {
+            "subCategoryTitle": "人材系営業"
+          },
+          {
+            "subCategoryTitle": "その他、営業系"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "企画・事務・管理系",
+        "subTitle": "経営企画、広報、人事、事務 他",
+        "subCategoryList": [
+          {
+            "subCategoryTitle": "法人営業"
+          },
+          {
+            "subCategoryTitle": "個人営業"
+          },
+          {
+            "subCategoryTitle": "ルートセールス・渉外・外商"
+          },
+          {
+            "subCategoryTitle": "代理店営業・アライアンス"
+          },
+          {
+            "subCategoryTitle": "内勤営業"
+          },
+          {
+            "subCategoryTitle": "カウンターセールス"
+          },
+          {
+            "subCategoryTitle": "技術・システム営業"
+          },
+          {
+            "subCategoryTitle": "MR"
+          },
+          {
+            "subCategoryTitle": "医療機器営業、その他"
+          },
+          {
+            "subCategoryTitle": "海外営業"
+          },
+          {
+            "subCategoryTitle": "営業マネージャー・営業管理"
+          },
+          {
+            "subCategoryTitle": "コールセンター管理・運営（SV）"
+          },
+          {
+            "subCategoryTitle": "テレマーケティング、オペレーター"
+          },
+          {
+            "subCategoryTitle": "人材コーディネーター"
+          },
+          {
+            "subCategoryTitle": "キャリアカウンセラー"
+          },
+          {
+            "subCategoryTitle": "人材系営業"
+          },
+          {
+            "subCategoryTitle": "その他、営業系"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "販売・接客・サービス系",
+        "subTitle": "ファッション、フード、小売 他",
+        "subCategoryList": [
+          {
+            "subCategoryTitle": "法人営業"
+          },
+          {
+            "subCategoryTitle": "個人営業"
+          },
+          {
+            "subCategoryTitle": "ルートセールス・渉外・外商"
+          },
+          {
+            "subCategoryTitle": "代理店営業・アライアンス"
+          },
+          {
+            "subCategoryTitle": "内勤営業"
+          },
+          {
+            "subCategoryTitle": "カウンターセールス"
+          },
+          {
+            "subCategoryTitle": "技術・システム営業"
+          },
+          {
+            "subCategoryTitle": "MR"
+          },
+          {
+            "subCategoryTitle": "医療機器営業、その他"
+          },
+          {
+            "subCategoryTitle": "海外営業"
+          },
+          {
+            "subCategoryTitle": "営業マネージャー・営業管理"
+          },
+          {
+            "subCategoryTitle": "コールセンター管理・運営（SV）"
+          },
+          {
+            "subCategoryTitle": "テレマーケティング、オペレーター"
+          },
+          {
+            "subCategoryTitle": "人材コーディネーター"
+          },
+          {
+            "subCategoryTitle": "キャリアカウンセラー"
+          },
+          {
+            "subCategoryTitle": "人材系営業"
+          },
+          {
+            "subCategoryTitle": "その他、営業系"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "専門サービス系（医療、福祉、教育、その他）",
+        "subTitle": "医療、福祉、教育、ブライダル 他",
+        "subCategoryList": [
+          {
+            "subCategoryTitle": "法人営業"
+          },
+          {
+            "subCategoryTitle": "個人営業"
+          },
+          {
+            "subCategoryTitle": "ルートセールス・渉外・外商"
+          },
+          {
+            "subCategoryTitle": "代理店営業・アライアンス"
+          },
+          {
+            "subCategoryTitle": "内勤営業"
+          },
+          {
+            "subCategoryTitle": "カウンターセールス"
+          },
+          {
+            "subCategoryTitle": "技術・システム営業"
+          },
+          {
+            "subCategoryTitle": "MR"
+          },
+          {
+            "subCategoryTitle": "医療機器営業、その他"
+          },
+          {
+            "subCategoryTitle": "海外営業"
+          },
+          {
+            "subCategoryTitle": "営業マネージャー・営業管理"
+          },
+          {
+            "subCategoryTitle": "コールセンター管理・運営（SV）"
+          },
+          {
+            "subCategoryTitle": "テレマーケティング、オペレーター"
+          },
+          {
+            "subCategoryTitle": "人材コーディネーター"
+          },
+          {
+            "subCategoryTitle": "キャリアカウンセラー"
+          },
+          {
+            "subCategoryTitle": "人材系営業"
+          },
+          {
+            "subCategoryTitle": "その他、営業系"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "専門職系（コンサルタント、金融、不動産）",
+        "subTitle": "コンサルタント、金融・不動産 他",
+        "subCategoryList": [
+          {
+            "subCategoryTitle": "法人営業"
+          },
+          {
+            "subCategoryTitle": "個人営業"
+          },
+          {
+            "subCategoryTitle": "ルートセールス・渉外・外商"
+          },
+          {
+            "subCategoryTitle": "代理店営業・アライアンス"
+          },
+          {
+            "subCategoryTitle": "内勤営業"
+          },
+          {
+            "subCategoryTitle": "カウンターセールス"
+          },
+          {
+            "subCategoryTitle": "技術・システム営業"
+          },
+          {
+            "subCategoryTitle": "MR"
+          },
+          {
+            "subCategoryTitle": "医療機器営業、その他"
+          },
+          {
+            "subCategoryTitle": "海外営業"
+          },
+          {
+            "subCategoryTitle": "営業マネージャー・営業管理"
+          },
+          {
+            "subCategoryTitle": "コールセンター管理・運営（SV）"
+          },
+          {
+            "subCategoryTitle": "テレマーケティング、オペレーター"
+          },
+          {
+            "subCategoryTitle": "人材コーディネーター"
+          },
+          {
+            "subCategoryTitle": "キャリアカウンセラー"
+          },
+          {
+            "subCategoryTitle": "人材系営業"
+          },
+          {
+            "subCategoryTitle": "その他、営業系"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "クリエイティブ系",
+        "subTitle": "WEB・ゲーム制作、プランナー 他",
+        "subCategoryList": [
+          {
+            "subCategoryTitle": "法人営業"
+          },
+          {
+            "subCategoryTitle": "個人営業"
+          },
+          {
+            "subCategoryTitle": "ルートセールス・渉外・外商"
+          },
+          {
+            "subCategoryTitle": "代理店営業・アライアンス"
+          },
+          {
+            "subCategoryTitle": "内勤営業"
+          },
+          {
+            "subCategoryTitle": "カウンターセールス"
+          },
+          {
+            "subCategoryTitle": "技術・システム営業"
+          },
+          {
+            "subCategoryTitle": "MR"
+          },
+          {
+            "subCategoryTitle": "医療機器営業、その他"
+          },
+          {
+            "subCategoryTitle": "海外営業"
+          },
+          {
+            "subCategoryTitle": "営業マネージャー・営業管理"
+          },
+          {
+            "subCategoryTitle": "コールセンター管理・運営（SV）"
+          },
+          {
+            "subCategoryTitle": "テレマーケティング、オペレーター"
+          },
+          {
+            "subCategoryTitle": "人材コーディネーター"
+          },
+          {
+            "subCategoryTitle": "キャリアカウンセラー"
+          },
+          {
+            "subCategoryTitle": "人材系営業"
+          },
+          {
+            "subCategoryTitle": "その他、営業系"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "技術系（IT・Web・ゲーム・通信）",
+        "subTitle": "アプリ開発、ITコンサル、PM 他",
+        "subCategoryList": [
+          {
+            "subCategoryTitle": "法人営業"
+          },
+          {
+            "subCategoryTitle": "個人営業"
+          },
+          {
+            "subCategoryTitle": "ルートセールス・渉外・外商"
+          },
+          {
+            "subCategoryTitle": "代理店営業・アライアンス"
+          },
+          {
+            "subCategoryTitle": "内勤営業"
+          },
+          {
+            "subCategoryTitle": "カウンターセールス"
+          },
+          {
+            "subCategoryTitle": "技術・システム営業"
+          },
+          {
+            "subCategoryTitle": "MR"
+          },
+          {
+            "subCategoryTitle": "医療機器営業、その他"
+          },
+          {
+            "subCategoryTitle": "海外営業"
+          },
+          {
+            "subCategoryTitle": "営業マネージャー・営業管理"
+          },
+          {
+            "subCategoryTitle": "コールセンター管理・運営（SV）"
+          },
+          {
+            "subCategoryTitle": "テレマーケティング、オペレーター"
+          },
+          {
+            "subCategoryTitle": "人材コーディネーター"
+          },
+          {
+            "subCategoryTitle": "キャリアカウンセラー"
+          },
+          {
+            "subCategoryTitle": "人材系営業"
+          },
+          {
+            "subCategoryTitle": "その他、営業系"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "技術系（電気、電子、機械）",
+        "subTitle": "回路・制御設計、研究他",
+        "subCategoryList": [
+          {
+            "subCategoryTitle": "法人営業"
+          },
+          {
+            "subCategoryTitle": "個人営業"
+          },
+          {
+            "subCategoryTitle": "ルートセールス・渉外・外商"
+          },
+          {
+            "subCategoryTitle": "代理店営業・アライアンス"
+          },
+          {
+            "subCategoryTitle": "内勤営業"
+          },
+          {
+            "subCategoryTitle": "カウンターセールス"
+          },
+          {
+            "subCategoryTitle": "技術・システム営業"
+          },
+          {
+            "subCategoryTitle": "MR"
+          },
+          {
+            "subCategoryTitle": "医療機器営業、その他"
+          },
+          {
+            "subCategoryTitle": "海外営業"
+          },
+          {
+            "subCategoryTitle": "営業マネージャー・営業管理"
+          },
+          {
+            "subCategoryTitle": "コールセンター管理・運営（SV）"
+          },
+          {
+            "subCategoryTitle": "テレマーケティング、オペレーター"
+          },
+          {
+            "subCategoryTitle": "人材コーディネーター"
+          },
+          {
+            "subCategoryTitle": "キャリアカウンセラー"
+          },
+          {
+            "subCategoryTitle": "人材系営業"
+          },
+          {
+            "subCategoryTitle": "その他、営業系"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "技術系（建築、土木）",
+        "subTitle": "建築・設備設計、施工管理 他",
+        "subCategoryList": [
+          {
+            "subCategoryTitle": "法人営業"
+          },
+          {
+            "subCategoryTitle": "個人営業"
+          },
+          {
+            "subCategoryTitle": "ルートセールス・渉外・外商"
+          },
+          {
+            "subCategoryTitle": "代理店営業・アライアンス"
+          },
+          {
+            "subCategoryTitle": "内勤営業"
+          },
+          {
+            "subCategoryTitle": "カウンターセールス"
+          },
+          {
+            "subCategoryTitle": "技術・システム営業"
+          },
+          {
+            "subCategoryTitle": "MR"
+          },
+          {
+            "subCategoryTitle": "医療機器営業、その他"
+          },
+          {
+            "subCategoryTitle": "海外営業"
+          },
+          {
+            "subCategoryTitle": "営業マネージャー・営業管理"
+          },
+          {
+            "subCategoryTitle": "コールセンター管理・運営（SV）"
+          },
+          {
+            "subCategoryTitle": "テレマーケティング、オペレーター"
+          },
+          {
+            "subCategoryTitle": "人材コーディネーター"
+          },
+          {
+            "subCategoryTitle": "キャリアカウンセラー"
+          },
+          {
+            "subCategoryTitle": "人材系営業"
+          },
+          {
+            "subCategoryTitle": "その他、営業系"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "技術系（医薬、化学、素材、食品）",
+        "subTitle": "研究、生産管理、品質管理他",
+        "subCategoryList": [
+          {
+            "subCategoryTitle": "法人営業"
+          },
+          {
+            "subCategoryTitle": "個人営業"
+          },
+          {
+            "subCategoryTitle": "ルートセールス・渉外・外商"
+          },
+          {
+            "subCategoryTitle": "代理店営業・アライアンス"
+          },
+          {
+            "subCategoryTitle": "内勤営業"
+          },
+          {
+            "subCategoryTitle": "カウンターセールス"
+          },
+          {
+            "subCategoryTitle": "技術・システム営業"
+          },
+          {
+            "subCategoryTitle": "MR"
+          },
+          {
+            "subCategoryTitle": "医療機器営業、その他"
+          },
+          {
+            "subCategoryTitle": "海外営業"
+          },
+          {
+            "subCategoryTitle": "営業マネージャー・営業管理"
+          },
+          {
+            "subCategoryTitle": "コールセンター管理・運営（SV）"
+          },
+          {
+            "subCategoryTitle": "テレマーケティング、オペレーター"
+          },
+          {
+            "subCategoryTitle": "人材コーディネーター"
+          },
+          {
+            "subCategoryTitle": "キャリアカウンセラー"
+          },
+          {
+            "subCategoryTitle": "人材系営業"
+          },
+          {
+            "subCategoryTitle": "その他、営業系"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "警備、清掃、設備管理、運輸・配送、軽作業系",
+        "subTitle": "警備、清掃、ドライバー他",
+        "subCategoryList": [
+          {
+            "subCategoryTitle": "法人営業"
+          },
+          {
+            "subCategoryTitle": "個人営業"
+          },
+          {
+            "subCategoryTitle": "ルートセールス・渉外・外商"
+          },
+          {
+            "subCategoryTitle": "代理店営業・アライアンス"
+          },
+          {
+            "subCategoryTitle": "内勤営業"
+          },
+          {
+            "subCategoryTitle": "カウンターセールス"
+          },
+          {
+            "subCategoryTitle": "技術・システム営業"
+          },
+          {
+            "subCategoryTitle": "MR"
+          },
+          {
+            "subCategoryTitle": "医療機器営業、その他"
+          },
+          {
+            "subCategoryTitle": "海外営業"
+          },
+          {
+            "subCategoryTitle": "営業マネージャー・営業管理"
+          },
+          {
+            "subCategoryTitle": "コールセンター管理・運営（SV）"
+          },
+          {
+            "subCategoryTitle": "テレマーケティング、オペレーター"
+          },
+          {
+            "subCategoryTitle": "人材コーディネーター"
+          },
+          {
+            "subCategoryTitle": "キャリアカウンセラー"
+          },
+          {
+            "subCategoryTitle": "人材系営業"
+          },
+          {
+            "subCategoryTitle": "その他、営業系"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "公務員、団体職員、その他",
+        "subTitle": "公務員、警察・消防、学校法人他",
+        "subCategoryList": [
+          {
+            "subCategoryTitle": "法人営業"
+          },
+          {
+            "subCategoryTitle": "個人営業"
+          },
+          {
+            "subCategoryTitle": "ルートセールス・渉外・外商"
+          },
+          {
+            "subCategoryTitle": "代理店営業・アライアンス"
+          },
+          {
+            "subCategoryTitle": "内勤営業"
+          },
+          {
+            "subCategoryTitle": "カウンターセールス"
+          },
+          {
+            "subCategoryTitle": "技術・システム営業"
+          },
+          {
+            "subCategoryTitle": "MR"
+          },
+          {
+            "subCategoryTitle": "医療機器営業、その他"
+          },
+          {
+            "subCategoryTitle": "海外営業"
+          },
+          {
+            "subCategoryTitle": "営業マネージャー・営業管理"
+          },
+          {
+            "subCategoryTitle": "コールセンター管理・運営（SV）"
+          },
+          {
+            "subCategoryTitle": "テレマーケティング、オペレーター"
+          },
+          {
+            "subCategoryTitle": "人材コーディネーター"
+          },
+          {
+            "subCategoryTitle": "キャリアカウンセラー"
+          },
+          {
+            "subCategoryTitle": "人材系営業"
+          },
+          {
+            "subCategoryTitle": "その他、営業系"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "Industry",
+    "title": "業種で探す",
+    "categoryTitleLink": false,
+    "list": [
+      {
+        "categoryTitle": "メーカー（機械・電気・電子）",
+        "subTitle": "電気、機械、自動車、医療機器 他"
+      },
+      {
+        "categoryTitle": "メーカー（素材・食品・医薬品他)",
+        "subTitle": "化学、鉄鋼、医薬品、日用品 他"
+      },
+      {
+        "categoryTitle": "サービス",
+        "subTitle": "飲食、教育、アミューズメント 他"
+      },
+      {
+        "categoryTitle": "コンサルティング",
+        "subTitle": "シンクタンク、マーケティング 他"
+      },
+      {
+        "categoryTitle": "不動産・建設・設備",
+        "subTitle": "建設、土木、不動産 他"
+      },
+      {
+        "categoryTitle": "運輸・交通・物流・倉庫",
+        "subTitle": "建設、土木、不動産 他"
+      },
+      {
+        "categoryTitle": "運輸・交通・物流・倉庫",
+        "subTitle": "鉄道、空輸、海運、物流、倉庫 他"
+      },
+      {
+        "categoryTitle": "商社",
+        "subTitle": "総合商社、食料品、アパレル、インテリア 他"
+      },
+      {
+        "categoryTitle": "金融・保険",
+        "subTitle": "銀行、証券、生保、クレジット 他"
+      },
+      {
+        "categoryTitle": "マスコミ・広告・デザイン",
+        "subTitle": "放送、出版、広告、ゲーム、デザイン 他"
+      },
+      {
+        "categoryTitle": "流通・小売",
+        "subTitle": "百貨店、コンビニ、ドラックストア 他"
+      },
+      {
+        "categoryTitle": "IT・通信・インターネット",
+        "subTitle": "ソフトウェア、インターネット 他"
+      },
+      {
+        "categoryTitle": "その他",
+        "subTitle": "電気、ガス、インフラ、官公庁 他"
+      }
+    ]
+  },
+  {
+    "type": "Area",
+    "title": "エリアで探す",
+    "categoryTitleLink": false,
+    "list": [
+      {
+        "categoryTitle": "北海道・東北",
+        "subTitle": "",
+        "subCategoryList": [
+          {
+            "subCategoryTitle": "北海道",
+            "areas": [
+              {
+                "area_id": 11101,
+                "area_name": "札幌市",
+                "area_details": [
+                  { "area_detail_id": 1100101, "area_detail_name": "中央区" },
+                  { "area_detail_id": 1100102, "area_detail_name": "北区" },
+                  { "area_detail_id": 1100103, "area_detail_name": "東区" },
+                  { "area_detail_id": 1100104, "area_detail_name": "白石区" },
+                  { "area_detail_id": 1100105, "area_detail_name": "豊平区" },
+                  { "area_detail_id": 1100106, "area_detail_name": "南区" },
+                  { "area_detail_id": 1100107, "area_detail_name": "西区" },
+                  { "area_detail_id": 1100108, "area_detail_name": "厚別区" },
+                  { "area_detail_id": 1100109, "area_detail_name": "手稲区" },
+                  { "area_detail_id": 1100110, "area_detail_name": "清田区" }
+                ]
+              },
+              {
+                "area_id": 11202,
+                "area_name": "函館市",
+                "area_details": [{ "area_detail_id": 0, "area_detail_name": "" }]
+              }
+            ]
+          },
+          {
+            "subCategoryTitle": "青森県",
+            "areas": [
+              {
+                "area_id": 12201,
+                "area_name": "青森市",
+                "area_details": []
+              },
+              {
+                "area_id": 12202,
+                "area_name": "弘前市",
+                "area_details": []
+              }
+            ]
+          },
+          {
+            "subCategoryTitle": "岩手県",
+            "areas": [
+              {
+                "area_id": 13201,
+                "area_name": "盛岡市",
+                "area_details": []
+              },
+              {
+                "area_id": 13203,
+                "area_name": "宮古市",
+                "area_details": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categoryTitle": "関東",
+        "subTitle": "",
+        "subCategoryList": [
+          {
+            "subCategoryTitle": "東京都",
+            "areas": [
+              {
+                "area_id": 23101,
+                "area_name": "千代田区",
+                "area_details": []
+              },
+              {
+                "area_id": 23102,
+                "area_name": "中央区",
+                "area_details": []
+              }
+            ]
+          },
+          {
+            "subCategoryTitle": "神奈川県",
+            "areas": [
+              {
+                "area_id": 24101,
+                "area_name": "横浜市",
+                "area_details": []
+              },
+              {
+                "area_id": 24131,
+                "area_name": "川崎市",
+                "area_details": []
+              }
+            ]
+          },
+          {
+            "subCategoryTitle": "千葉県",
+            "areas": [
+              {
+                "area_id": 22101,
+                "area_name": "千葉市",
+                "area_details": []
+              },
+              {
+                "area_id": 22202,
+                "area_name": "銚子市",
+                "area_details": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categoryTitle": "北陸・甲信越",
+        "subTitle": "",
+        "subCategoryList": [
+          {
+            "subCategoryTitle": "新潟県",
+            "areas": [
+              {
+                "area_id": 25101,
+                "area_name": "新潟市",
+                "area_details": []
+              },
+              {
+                "area_id": 25202,
+                "area_name": "長岡市",
+                "area_details": []
+              }
+            ]
+          },
+          {
+            "subCategoryTitle": "富山県",
+            "areas": [
+              {
+                "area_id": 26201,
+                "area_name": "富山市",
+                "area_details": []
+              },
+              {
+                "area_id": 26202,
+                "area_name": "高岡市",
+                "area_details": []
+              }
+            ]
+          },
+          {
+            "subCategoryTitle": "石川県",
+            "areas": [
+              {
+                "area_id": 27201,
+                "area_name": "金沢市",
+                "area_details": []
+              },
+              {
+                "area_id": 27202,
+                "area_name": "七尾市",
+                "area_details": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "title": "特徴で探す",
+    "categoryTitleLink": false,
+    "list": [
+      {
+        "categoryTitle": "会社の特徴",
+        "subTitle": "上場企業、官公庁・学校関連 他",
+        "subCategoryList": [
+          {
+            "subCategoryTitle": "上場企業"
+          },
+          {
+            "subCategoryTitle": "官公庁・学校関連"
+          },
+          {
+            "subCategoryTitle": "ベンチャー企業"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "雇用・勤務時間の特徴",
+        "subTitle": "試用期間あり、正社員登用あり 他",
+        "subCategoryList": [
+          {
+            "subCategoryTitle": "試用期間あり"
+          },
+          {
+            "subCategoryTitle": "正社員登用あり"
+          },
+          {
+            "subCategoryTitle": "残業なし"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "仕事の特徴",
+        "subTitle": "英語・外国語を使う仕事 他",
+        "subCategoryList": [
+          {
+            "subCategoryTitle": "英語・外国語を使う仕事"
+          },
+          {
+            "subCategoryTitle": "マネージャー・管理職採用"
+          },
+          {
+            "subCategoryTitle": "新規事業"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "Salary",
+    "title": "給与で探す",
+    "categoryTitleLink": false,
+    "list": [
+      {
+        "categoryTitle": "年収",
+        "subTitle": "",
+        "subCategoryList": [
+          {
+            "subCategoryTitle": "200万円～"
+          },
+          {
+            "subCategoryTitle": "250万円～"
+          },
+          {
+            "subCategoryTitle": "300万円～"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "月給",
+        "subTitle": "",
+        "subCategoryList": [
+          {
+            "subCategoryTitle": "15万円～"
+          },
+          {
+            "subCategoryTitle": "20万円～"
+          },
+          {
+            "subCategoryTitle": "25万円～"
+          }
+        ]
+      },
+      {
+        "categoryTitle": "日給",
+        "subTitle": "",
+        "subCategoryList": [
+          {
+            "subCategoryTitle": "6,000円～"
+          },
+          {
+            "subCategoryTitle": "7,000円～"
+          },
+          {
+            "subCategoryTitle": "8,000円～"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "categories" {
+    [
+      {
+        "kind": "Employment",
+        "title": "雇用形態で探す",
+        "sub_categories": [
+          {
+            "title": "中途採用（正社員）",
+            "url_param": "",
+            "note": "中途採用（正社員）",
+            "is_nofollow": false,
+            "detail_categories": [
+              {
+                "title": "中途採用（正社員）",
+                "url_param": "",
+                "is_nofollow": false
+              }
+            ]
+          },
+        ]
+      }
+    ]
+  }
+}
